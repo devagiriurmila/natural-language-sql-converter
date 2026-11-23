@@ -1,0 +1,7 @@
+streamlit==1.66.1
+pandas==3.0.2
+openai==3.39.0
+sqlglot==30.25.0
+python-dotenv==1.2.2
+matplotlib==3.10.8
+pytest==9.1.1
